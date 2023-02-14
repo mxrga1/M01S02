@@ -1,0 +1,15 @@
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\bin\Debug\net7.0\ex5.exe
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\bin\Debug\net7.0\ex5.deps.json
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\bin\Debug\net7.0\ex5.runtimeconfig.json
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\bin\Debug\net7.0\ex5.dll
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\bin\Debug\net7.0\ex5.pdb
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\ex5.csproj.AssemblyReference.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\ex5.AssemblyInfoInputs.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\ex5.AssemblyInfo.cs
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\ex5.csproj.CoreCompileInputs.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\ex5.dll
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\refint\ex5.dll
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\ex5.pdb
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\ex5.genruntimeconfig.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex5\obj\Debug\net7.0\ref\ex5.dll

@@ -1,0 +1,15 @@
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\ex4.csproj.AssemblyReference.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\ex4.AssemblyInfoInputs.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\ex4.AssemblyInfo.cs
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\ex4.csproj.CoreCompileInputs.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\bin\Debug\net7.0\ex4.exe
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\bin\Debug\net7.0\ex4.deps.json
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\bin\Debug\net7.0\ex4.runtimeconfig.json
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\bin\Debug\net7.0\ex4.dll
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\bin\Debug\net7.0\ex4.pdb
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\ex4.dll
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\refint\ex4.dll
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\ex4.pdb
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\ex4.genruntimeconfig.cache
+C:\Users\MARGARIDA\Desktop\FULLSTACK\Semana02\M01S02\Exercicios\ex4\obj\Debug\net7.0\ref\ex4.dll
